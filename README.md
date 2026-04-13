@@ -84,8 +84,8 @@ Esse arquivo será criado automaticamente na primeira execução, na mesma pasta
 
 Se o banco estiver vazio, o sistema cria:
 
-- Usuário: `AndersonMPMelo`
-- Senha: `Tomatinho`
+- Usuário: `XXX`
+- Senha: `XXX`
 
 Altere isso depois da primeira execução.
 
